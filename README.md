@@ -1,1 +1,3 @@
 # kombucha
+
+Kombucha is a variety of fermented, lightly effervescent sweetened black or green tea drinks commonly intended as functional beverages for their supposed health benefits. Kombucha is produced by fermenting tea using a "symbiotic culture of bacteria and yeast" (SCOBY). Microbial populations in SCOBY cultures vary. The yeast component generally includes Saccharomyces and other species, and the bacterial component almost always includes Gluconacetobacter xylinus to oxidize yeast-produced alcohols to acetic and other acids.

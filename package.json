@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vkinoshita/kombucha/issues"
   },
-  "homepage": "https://github.com/vkinoshita/kombucha#readme"
+  "homepage": "https://github.com/vkinoshita/kombucha#readme",
+  "dependencies": {
+    "puppeteer": "^1.4.0"
+  }
 }

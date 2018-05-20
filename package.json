@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vkinoshita/kombucha#readme",
   "dependencies": {
+    "googleapis": "^27.0.0",
     "puppeteer": "^1.4.0"
   }
 }
